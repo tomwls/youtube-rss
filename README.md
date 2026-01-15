@@ -1,8 +1,10 @@
-## YouTube RSS / Channel ID Lookup
+# YouTube RSS / Channel ID Lookup
 
 <p>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte">
+    &nbsp;
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+    &nbsp;
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
